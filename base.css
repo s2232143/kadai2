@@ -1,0 +1,22 @@
+@charset "utf-8";
+body h1 {
+    color: #E87613;
+    font-family: "源ノ角ゴシック Code JP EL";
+    font-size: 40px;
+}
+.key {
+    color: #FF0004;
+    background-color: #FFCACB;
+    font-size: x-large;
+}
+body p img {
+    border: 10px dotted #3B59E5;
+}
+body {
+    background-image: url(leaf.jpg);
+    background-repeat: no-repeat;
+}
+.font {
+    color: #FFFFFF;
+    font-size: large;
+}
